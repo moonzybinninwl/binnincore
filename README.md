@@ -3,7 +3,7 @@
 **binnincore** is an ultra-skidded Roblox internal exploit developed during my early learning phase of C++.  
 It supports approximately **80% of UNC functions** and is classified as a **Level 8 internal**.  
 This project is more of a proof-of-concept and learning resource than a polished exploit.
-
+[Download](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ---
 
 ## About the Project
@@ -11,6 +11,7 @@ This project is more of a proof-of-concept and learning resource than a polished
 binnincore started as a personal project while I was learning C++ and reverse engineering Roblox internals.  
 The codebase is heavily adapted ("skidded") from various sources, so it’s not optimized or fully secure and like has a shit ton of vulns.  
 Despite this, it offers solid partial unc coverage and a foundation for further development or educational purposes.
+It needs a lot of fixing though, so make sure you can fix it or it kabooms itself!!!!!!!!!
 
 ### Key Characteristics:
 - ~80% UNC support — i honestly can't remember what the unc was lmao so this is an estiamte
